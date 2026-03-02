@@ -1,8 +1,8 @@
 class AiUsageBar < Formula
   desc "macOS menu bar app for tracking Claude AI usage"
   homepage "https://github.com/reidemeister94/ai-usage-bar"
-  url "https://github.com/reidemeister94/ai-usage-bar/releases/download/v1.1.4/ai-usage-bar"
-  sha256 "c970c34a0a671484763f0a747c83e56f01cadbdb32f18582a6f3e69f630b98dc"
+  url "https://github.com/reidemeister94/ai-usage-bar/releases/download/v1.1.5/ai-usage-bar"
+  sha256 "e4bdf5bf950950a5e18b711d2bafd9850c03cf58e7f594f27244a3982e282a34"
   license "MIT"
 
   depends_on macos: :sonoma
